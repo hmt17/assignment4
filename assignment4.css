@@ -75,6 +75,11 @@
   color: #333;
 }
 
+.flexsearch-result {
+	font-family: 'Helvetica', sans-serif;
+  color: red;
+}
+
 .flexsearch-submit:hover {
   color: #333;
   cursor: pointer;
